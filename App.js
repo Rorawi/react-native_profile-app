@@ -51,4 +51,4 @@ const styles = StyleSheet.create({
   info: {
     flex: 8,
   },
-});
+}) 
